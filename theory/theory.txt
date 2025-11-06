@@ -1,0 +1,10 @@
+client: anyone who uses browser
+server: server ke paas se website laake usko parse krke client ko given. server contolled of that website by that particular website waale people. ek code ayega jo uss website tkk leje
+browser: clients assitant. chrome, firefox. hum isko bolte ki mujhe yeh website uthake dedo
+client->browser->server (error or 200 which is response code)
+server sends a huge buncle of code (url) which has everthing the icons, images to be shown etc etc. uss code ko user friendly website form (jo humme dikhti) mai dikhana browser ka kaam hota hai
+backend is how the server is processing to the request
+google serach pr jo show hua uska jo actual code that how it will all be showed, clicked yeh voh all that is the "backend" part yeh django,flask,node js,php,ruby se hota
+
+Frontend: html,css,javascript
+Browser parses html
